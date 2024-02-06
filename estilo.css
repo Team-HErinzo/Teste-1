@@ -1,1 +1,19 @@
+body{
+    background-color: aquamarine;
+    font-size: 40px;
+    color: brown;
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cabeçalho-lista{
+
+     display: flex;
+     list-style-type: none;
+
+}
 
